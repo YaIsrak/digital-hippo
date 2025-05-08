@@ -1,4 +1,4 @@
-import MaxWidthWrapper from '@/components/customui/max-width-wrapper';
+import MaxWidthWrapper from '@/components/max-width-wrapper';
 import { Button, buttonVariants } from '@/components/ui/button';
 import { perks } from '@/lib/constants';
 import Link from 'next/link';
